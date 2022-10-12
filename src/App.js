@@ -74,7 +74,7 @@ function App() {
         {/* Recomendations Section */}
         <div className="w-full pl-4 flex flex-col justify-start" ref={locationsRef}>
           <h2 className={`text-2xl py-7 font-semibold lg:text-3xl lg:pt-20 lg:pl-8 ${lightTheme ? 'text-primary' : 'text-white'}`}>Our Recomendations</h2>
-          <section className="flex gap-5 pr-4 overflow-x-auto overscroll-x-contain lg:py-4 lg:pl-8 lg:gap-12">
+          <section className="flex gap-3 pr-4 overflow-x-auto overscroll-x-contain lg:py-4 lg:pl-8 lg:gap-12">
             <RecomendationCard title={"Norway"} description={"Beautiful landscapes"} secondaryColor={true} lightTheme={lightTheme}/>
             <RecomendationCard title={"New York"} description={"Concrete jungle"} secondaryColor={false} lightTheme={lightTheme}/>
             <RecomendationCard title={"Yosemite"} description={"A break from the world"} secondaryColor={true} lightTheme={lightTheme}/>
