@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/travel-agency-landing-page/static/css/main.da6b9d5a.css",
-    "main.js": "/travel-agency-landing-page/static/js/main.2e39bc32.js",
+    "main.css": "/travel-agency-landing-page/static/css/main.3c81996d.css",
+    "main.js": "/travel-agency-landing-page/static/js/main.b4837fd7.js",
     "static/media/sanFrancisco.jpg": "/travel-agency-landing-page/static/media/sanFrancisco.7bf3d5b0c1deb5ee167c.jpg",
     "static/media/sanFranciscoDesktop.jpg": "/travel-agency-landing-page/static/media/sanFranciscoDesktop.4a5ecbcb3da5c7b91b91.jpg",
     "static/media/bali.jpg": "/travel-agency-landing-page/static/media/bali.470349c5b92cb2072ceb.jpg",
@@ -18,11 +18,11 @@
     "static/media/search-loop-light.svg": "/travel-agency-landing-page/static/media/search-loop-light.16a2d14508e7f6cb06b6022f934ac16d.svg",
     "static/media/moon-vector-light.svg": "/travel-agency-landing-page/static/media/moon-vector-light.091b80d173f5293713d139768e408488.svg",
     "static/media/sun.svg": "/travel-agency-landing-page/static/media/sun.e97d10ff3f616168fa14a1c1837c345d.svg",
-    "main.da6b9d5a.css.map": "/travel-agency-landing-page/static/css/main.da6b9d5a.css.map",
-    "main.2e39bc32.js.map": "/travel-agency-landing-page/static/js/main.2e39bc32.js.map"
+    "main.3c81996d.css.map": "/travel-agency-landing-page/static/css/main.3c81996d.css.map",
+    "main.b4837fd7.js.map": "/travel-agency-landing-page/static/js/main.b4837fd7.js.map"
   },
   "entrypoints": [
-    "static/css/main.da6b9d5a.css",
-    "static/js/main.2e39bc32.js"
+    "static/css/main.3c81996d.css",
+    "static/js/main.b4837fd7.js"
   ]
 }
