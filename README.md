@@ -3,12 +3,11 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [Resume](#resume)
+  - [Features](#features)
   - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
+- [Links](#links)
+- [Built with](#built-with)
 - [Author](#author)
 
 
@@ -33,16 +32,20 @@ Users should be able to:
 
 ***Mobile***
 
-<!-- <img src="./public/screen-mobile.png" width="800"/>  -->
+<img src="./src/assets/mobile-view.png" width="800"/> 
+
+***Tablet***
+
+<img src="./src/assets/tablet-view.png" width="800" /> 
 
 ***Desktop***
 
-<!-- <img src="./public/screen-desktop.png" width="800" />  -->
+<img src="./src/assets/desktop-view.png" width="800" /> 
 
 
-### Links
+## Links
 
-- Live Site URL: [Travel Agency Landing Page](https://hugoriveros18.github.io/todo-app/)
+- Live Site URL: [Travel Agency Landing Page](https://hugoriveros18.github.io/travel-agency-landing-page/)
 
 
 ## Built with
@@ -56,6 +59,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@hugoriveros18](https://www.frontendmentor.io/profile/hugoriveros18)
 - Twitter - [@HugoRiverosF18](https://www.twitter.com/HugoRiverosF18)
 - LinkedIN - [Hugo Felipe Riveros Fajardo](https://www.linkedin.com/in/hugo-felipe-riveros-fajardo-bb840292)
