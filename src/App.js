@@ -85,7 +85,7 @@ function App() {
         {/* Trending Stays */}
         <div className="w-full flex flex-col justify-start" ref={staysRef}>
           <h2 className={`text-2xl pl-4 pt-7 pb-5 font-semibold lg:text-3xl lg:pl-12 lg:pt-20 ${lightTheme ? 'text-primary' : 'text-white'}`}>Trending Stays</h2>
-          <section className="grid px-7 gap-[38px] lg:px-11
+          <section className="grid px-7 gap-4 lg:px-11
             lg:grid-cols-5 lg:grid-rows-7 lg:gap-6 lg:h-auto">
             <TrendingCard title={"Chicago"} description={"2 rooms, bathroom and kitchen."}/>
             <TrendingCard title={"Los Angeles"} description={"4 rooms, 3 bathrooms, kitchen and private pool."}/>
